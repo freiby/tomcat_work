@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-digester-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-modeler-2.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/naming-common.jar"/>
+	<classpathentry kind="lib" path="libs/regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="libs/commons-daemon-1.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
